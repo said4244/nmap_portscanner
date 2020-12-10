@@ -1,2 +1,2 @@
 # nmap_portscanner
-weer een portscanner, maar dot keer met nmap
+weer een portscanner, maar dit keer met nmap
